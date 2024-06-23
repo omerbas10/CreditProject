@@ -1,0 +1,7 @@
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bason\Desktop\CreditProject\BankApp\obj\Debug\net8.0\BankApp.MvcApplicationPartsAssemblyInfo.cache
